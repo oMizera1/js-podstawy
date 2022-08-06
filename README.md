@@ -1,7 +1,7 @@
 # js-podstawy
 
 ## Praca w konsoli deweloperskiej 
-- aby otworzyć konsolę klikamy ctrl + shift + i lub wchodzimy w więcej narzędzi i narzędzia dla deweloperó 
+- aby otworzyć konsolę klikamy ctrl + shift + i lub wchodzimy w więcej narzędzi i narzędzia dla deweloperów
 - console.log() - wyświetla informacje w konsoli
 - console.error('to jest błąd') - wyświetli błąd w konsoli 
 - console.clear(); - wyczyści konsolę 
