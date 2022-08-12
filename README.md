@@ -1,5 +1,4 @@
-# js-podstawy
-
+# Podstawy js
 ## Praca w konsoli deweloperskiej 
 - aby otworzyć konsolę klikamy ctrl + shift + i lub wchodzimy w więcej narzędzi i narzędzia dla deweloperów
 - console.log() - wyświetla informacje w konsoli
