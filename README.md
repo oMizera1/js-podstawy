@@ -10,9 +10,9 @@
 ...
 console.timeEnd(nazwa);
 
-## deklaroawnie zmiennych  
+## deklarowanie zmiennych  
 - tworzymy przy pomocy: var, let lub const
-- var jest startm sposobem od któego się odchodzi
+- var jest starym sposobem od którego się odchodzi
 - obecnie najlepiej używać let lub const 
 - let pozwala nam na zmianę wartości zmiennej
 - wartość const jest stała i nie może być zmieniona 
