@@ -5,7 +5,6 @@
 - console.error('to jest błąd') - wyświetli błąd w konsoli 
 - console.clear(); - wyczyści konsolę 
 - console.warn("it's a warning") - wyświetli ostrzeżenie 
-- console.time(nazwa); - zwróci nam czas jaki był potrzebny do wykonania zadań między time i timeEnd
 ...
 console.timeEnd(nazwa);
 
@@ -38,7 +37,7 @@ Camel case jest najbardziej polecany
 ## typy danych 
 ### typy prymitywne
  - string
-  - Number //(nie ma różnicy między int, float itp)
+ -Number 
  - Boolean
  - null
  - undefined
