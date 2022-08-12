@@ -22,7 +22,7 @@ const greeting = 'Hello world';
 let firstName = 'Oliwia';
 var age = 10;
 ```
-### nazwenictwo 
+### nazewnictwo 
 Czy możemy nazywać zmienne w dowolny sposób?
 Nie, są podstawowe zasady:
 - nazwy mogą zawierać litery, cyfry, _, i $
@@ -64,7 +64,7 @@ Camel case jest najbardziej polecany
 === - strict equality - porónuje zarówno wartość zmiennej, jak i jej typ 
 np. '2' == 2 zwróci true
 2 === '2' zwróci false 
-### pozostałe operatory porónania
+### pozostałe operatory porównania
 !==, >, < / >=, <=
 ### operatory logiczne 
 - && - operator i - sprawdzamy czy obie zmienne są prawdziwe 
@@ -72,8 +72,8 @@ np. '2' == 2 zwróci true
 
 ## warunki if 
   - if(nasz warunek) {
-  - co się stanie =, gdy warunek zostanie spełniony
-  - }else if (iiny warunek) {
+  - co się stanie, gdy warunek zostanie spełniony
+  - }else if (inny warunek) {
   - co się stanie, gdy inny warunek zostanie spełniony 
   - } else {
   - co jeśli żaden ze wcześniejszych warunków nie jest spełniony 
